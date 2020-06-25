@@ -11,7 +11,6 @@
 
 # misc
 .DS_Store
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -22,3 +21,4 @@ yarn-error.log*
 package-lock.json
 
 .history/
+config.bat
